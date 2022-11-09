@@ -1,0 +1,15 @@
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ClasesAbstractasInterfases\obj\Debug\net6.0\ClasesAbstractasInterfaces.csproj.AssemblyReference.cache
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ClasesAbstractasInterfases\obj\Debug\net6.0\ClasesAbstractasInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ClasesAbstractasInterfases\obj\Debug\net6.0\ClasesAbstractasInterfaces.AssemblyInfoInputs.cache
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ClasesAbstractasInterfases\obj\Debug\net6.0\ClasesAbstractasInterfaces.AssemblyInfo.cs
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ClasesAbstractasInterfases\obj\Debug\net6.0\ClasesAbstractasInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ClasesAbstractasInterfases\bin\Debug\net6.0\ClasesAbstractasInterfaces.exe
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ClasesAbstractasInterfases\bin\Debug\net6.0\ClasesAbstractasInterfaces.deps.json
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ClasesAbstractasInterfases\bin\Debug\net6.0\ClasesAbstractasInterfaces.runtimeconfig.json
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ClasesAbstractasInterfases\bin\Debug\net6.0\ClasesAbstractasInterfaces.dll
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ClasesAbstractasInterfases\bin\Debug\net6.0\ClasesAbstractasInterfaces.pdb
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ClasesAbstractasInterfases\obj\Debug\net6.0\ClasesAbstractasInterfaces.dll
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ClasesAbstractasInterfases\obj\Debug\net6.0\refint\ClasesAbstractasInterfaces.dll
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ClasesAbstractasInterfases\obj\Debug\net6.0\ClasesAbstractasInterfaces.pdb
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ClasesAbstractasInterfases\obj\Debug\net6.0\ClasesAbstractasInterfaces.genruntimeconfig.cache
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ClasesAbstractasInterfases\obj\Debug\net6.0\ref\ClasesAbstractasInterfaces.dll

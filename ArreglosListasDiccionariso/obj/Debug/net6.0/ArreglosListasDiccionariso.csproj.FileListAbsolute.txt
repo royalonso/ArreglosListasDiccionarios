@@ -1,0 +1,15 @@
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ArreglosListasDiccionariso\bin\Debug\net6.0\ArreglosListasDiccionariso.exe
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ArreglosListasDiccionariso\bin\Debug\net6.0\ArreglosListasDiccionariso.deps.json
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ArreglosListasDiccionariso\bin\Debug\net6.0\ArreglosListasDiccionariso.runtimeconfig.json
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ArreglosListasDiccionariso\bin\Debug\net6.0\ArreglosListasDiccionariso.dll
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ArreglosListasDiccionariso\bin\Debug\net6.0\ArreglosListasDiccionariso.pdb
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ArreglosListasDiccionariso\obj\Debug\net6.0\ArreglosListasDiccionariso.csproj.AssemblyReference.cache
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ArreglosListasDiccionariso\obj\Debug\net6.0\ArreglosListasDiccionariso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ArreglosListasDiccionariso\obj\Debug\net6.0\ArreglosListasDiccionariso.AssemblyInfoInputs.cache
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ArreglosListasDiccionariso\obj\Debug\net6.0\ArreglosListasDiccionariso.AssemblyInfo.cs
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ArreglosListasDiccionariso\obj\Debug\net6.0\ArreglosListasDiccionariso.csproj.CoreCompileInputs.cache
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ArreglosListasDiccionariso\obj\Debug\net6.0\ArreglosListasDiccionariso.dll
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ArreglosListasDiccionariso\obj\Debug\net6.0\refint\ArreglosListasDiccionariso.dll
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ArreglosListasDiccionariso\obj\Debug\net6.0\ArreglosListasDiccionariso.pdb
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ArreglosListasDiccionariso\obj\Debug\net6.0\ArreglosListasDiccionariso.genruntimeconfig.cache
+C:\Users\r_g_a\source\repos\ArreglosListasDiccionariso\ArreglosListasDiccionariso\obj\Debug\net6.0\ref\ArreglosListasDiccionariso.dll
