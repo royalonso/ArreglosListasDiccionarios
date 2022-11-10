@@ -6,7 +6,7 @@ namespace ArreglosListasDiccionaros  // Listas Basicos
     {
         private static void Main(string[] args)
         {
-            /*
+            
             string[] razaDeperros = new string[5];
             int[] edades = {3,4,5,6,7,8,9}; 
             int indice = 0;
@@ -28,7 +28,7 @@ namespace ArreglosListasDiccionaros  // Listas Basicos
             {
                 Console.WriteLine("Edades :" + j);
             }
-            */
+            
             /*
             Botella[] botellas = new Botella[3];
             Botella[] botellas1 =
